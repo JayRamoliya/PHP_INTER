@@ -1,0 +1,19 @@
+B.Tech -> Bachelor of Technology (B.Tech.) is an Undergraduate Engineering Degree which is awarded  to the candidates after completing the 4 Years of study in a specific field.
+
+    Computer Engineering 
+
+        C & Data Structures, 
+        Computers and Information Technology, 
+        Managerial Economics and Accountancy, 
+        System Programming.
+
+
+B.E -> Bachelor of Engineering (B.E.) is a four year undergraduate degree that deals with the fundamentals of different specializations of the course.
+
+    Aerospace Engineering
+
+        Manufacturing, 
+        Designing, 
+        Maintaining Aircrafts, 
+        Spacecrafts, 
+        Helicopters and Missiles.
